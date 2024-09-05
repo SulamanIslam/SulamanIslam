@@ -4,7 +4,7 @@
 
 - <b>Active Directory Home Lab </b>
 
-  - ()
+  - 
 
 <h2> 🤳 Connect with me:</h2>
 
